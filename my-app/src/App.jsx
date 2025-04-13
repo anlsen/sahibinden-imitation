@@ -45,7 +45,7 @@ function App() {
     <div className="app">
       {/* 🔝 Navigation Bar */}
       <nav className="navbar">
-        <div className="logo">Organizational Housing</div>
+        <div className="logo">ORG404 Housing</div>
         <ul className="nav-links">
           <li><a href="#home">Home</a></li>
           <li><a href="#details">Details</a></li>
